@@ -1,0 +1,37 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-08-01T15:34:48.247Z"
+    },
+    {
+      "id": 2,
+      "description": "Hambúrguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2023-08-01T15:36:48.247Z"
+    },
+    {
+      "id": 3,
+      "description": "Desenvolvimento API",
+      "type": "income",
+      "category": "Venda",
+      "price": 5000,
+      "createdAt": "2023-08-01T15:38:48.247Z"
+    }
+    ,
+    {
+      "id": 4,
+      "description": "IFood",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 3800,
+      "createdAt": "2023-08-01T15:38:48.247Z"
+    }
+  ]
+}
