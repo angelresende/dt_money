@@ -23,8 +23,7 @@
       "category": "Venda",
       "price": 5000,
       "createdAt": "2023-08-01T15:38:48.247Z"
-    }
-    ,
+    },
     {
       "id": 4,
       "description": "IFood",
@@ -32,6 +31,14 @@
       "category": "Alimentação",
       "price": 3800,
       "createdAt": "2023-08-01T15:38:48.247Z"
+    },
+    {
+      "description": "Conta de Internet",
+      "price": 250,
+      "category": "Contas de consumo",
+      "type": "outcome",
+      "createdAt": "2023-08-02T14:09:58.516Z",
+      "id": 5
     }
   ]
 }
